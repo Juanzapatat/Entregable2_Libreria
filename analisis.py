@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Carga de doumentos y funciones del archivo preprocesamiento.py
+#Carga de funciones del archivo preprocesamiento.py
 
 from preprocesamiento import cargar_datos ,manejar_nulos, estandarizar_texto, eliminar_duplicados, eliminar_simbolos
 
@@ -13,7 +13,8 @@ df_libros = eliminar_simbolos(df_libros, ["nombre_libro" , "precio"])
 
 
 print(df_libros.head(10))
-print(df_clientes.head(10))
+
+print(f"\n{df_clientes.head(10)}")
 
  
 
@@ -50,6 +51,17 @@ print(f"Libros con precio más bajo a 15$: {libros_mas_baratos.shape[0]} libros"
 
 print("\nLista de libros más baratos:")
 print(libros_mas_baratos[["nombre_libro", "precio"]].to_string(index=False))
+
+
+
+
+print("\nMerge(Union de usuario y clientes)")
+
+df_completo = pd.merge(df_libros, df_clientes, on = 'id_cliente', how='left')
+
+
+print(f"\n{df_completo}" )
+
 
 
 
