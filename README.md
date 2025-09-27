@@ -1,3 +1,4 @@
+
 # 📚 Proyecto de Análisis de Datos de Librería con Pandas
 
 Este proyecto realiza la limpieza, el preprocesamiento y un análisis exploratorio inicial de dos conjuntos de datos relacionados: **Libros** y **Clientes** de una librería, utilizando la biblioteca **Pandas** en Python.
@@ -46,3 +47,4 @@ Una vez limpios y preparados, los datos se analizaron para obtener las siguiente
 
 ### 4. Unión de Datos (Merge)
 * Se combinó el `DataFrame` de `df_libros` con el de `df_clientes` utilizando **`pd.merge(..., on='id_cliente', how='left')`**. Esta operación crea un conjunto de datos único que asocia la información de cada libro con el nombre y detalles del cliente que lo compró.
+
