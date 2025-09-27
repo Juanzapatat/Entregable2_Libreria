@@ -1,0 +1,106 @@
+id_libros,id_cliente,nombre_libro,precio,categoria,autor
+1,7, eL QuIjOtE ,19.99, Novela ,Miguel de Cervantes
+2,4,  CiEn AñOs De SoLeDaD  ,24.50g,realismo mágico ,GABRIEL GARCÍA MÁRQUEZ
+3,8,RaYuElA,18.00$,novela , JULIO CORTÁZAR
+4,5,La SoMbRa DeL ViEnTo   ,22.00,MISTERIO,CARLOS RUIZ ZAFÓN
+5,7,PeDrO PáRaMo   , , Novela, JUAN RULFO
+6,10,DoN JuAn TeNoRiO,14.99,TEATRO, José Zorrilla
+7,3,La CaSa De LoS EsPíRiTuS,21.00kg,realismo mágico, ISABEL ALLENDE
+8,7,eL AlEpH   ,17.50   ,cuento,jorge luis borges
+9,8,La CiUdAd y LoS PeRrOs,20.00,novela, mario vargas llosa
+10,5,eL AmOr En LoS TiEmPoS DeL CóLeRa,23.00, novela ,Gabriel García Márquez
+11,4,LoS DeTeCtIvEs SaLvAjEs,19.00kg,novela,roberto bolaño
+12,8,La TrEgUa,16.50cm,novela, mario benedetti
+13,8,eL TúNeL,15.00mt, novela ,ERNESTO SABATO
+14,3,La FiEsTa DeL ChIvO,22.50,novela, mario vargas llosa
+15,6,CoMo AgUa PaRa ChOcOlAtE,18.50,novela, laura esquivel
+16,5,eL PrInCiPiTo,12.00,infantil,antoine de saint-exupéry
+17,2,FiCcIoNeS,16.00,cuento,jorge luis borges
+18,8,CrÓnIcA dE uNa MuErTe AnUnCiAdA,14.00,novela,gabriel garcía márquez
+19,6,eL LlAnO eN LlAmAs,13.50,cuento,juan rullo
+20,2,La CoLmEnA,17.00ml,novela,camilo josé cela
+21,5,el coronel no tiene quien le escriba,13.00,novela,gabriel garcía márquez
+22,1,la casa de bernarda alba,15.00,teatro,federico garcía lorca
+23,10,la región más transparente,19.00,novela,carlos fuentes
+24,6,el héroe discreto,18.00,novela,mario vargas llosa
+25,9,la muerte de artemio cruz,20.00ml,novela,carlos fuentes
+26,1,el lazarillo de tormes,11.00,novela,anónimo
+27,10,el camino,14.50,novela,miguel delibes
+28,3,la familia de pascual duarte,13.00,novela,camilo josé cela
+29,7,el jarama,15.00ml,novela,rafael sánchez ferlosio
+30,4,la casa verde,21.00$,novela,mario vargas llosa
+31,9,el árbol de la ciencia,16.00,novela,pío baroja
+32,3,la invención de morel,17.00,novela,adolfo bioy casares
+33,5,el entenado,15.50$,novela,juan josé saer
+34,3,la tía julia y el escribidor,18.00,novela,mario vargas llosa
+35,7,el hijo de la novia,14.00,novela,juan josé campanella
+36,5,el cartero de neruda,13.50,novela,antonio skármeta
+37,9,el amante bilingüe,12.50,novela,juan marsé
+38,7,la casa de papel,19.00,novela,carlos maría domínguez
+39,2,el sueño de los héroes,16.50,novela,adolfo bioy casares
+40,4,el beso de la mujer araña,18.00,novela,manuel puig
+41,9,El Astillero,15.00,Novela,Juan Carlos Onetti
+42,2,El Lugar Sin Límites,14.00,Novela,José Donoso
+43,10,El Aleph,17.50,Cuento,Jorge Luis Borges
+44,9,La Casa de los Conejos,13.00$,Novela,Laura Alcoba
+45,10,El Otoño del Patriarca,19.00,Novela,Gabriel García Márquez
+46,5,El General en su Laberinto,20.00,Novela,Gabriel García Márquez
+47,2,El Reino de Este Mundo,15.00$,Novela,Alejo Carpentier
+48,4,El Siglo de las Luces,18.00,Novela,Alejo Carpentier
+49,7,El Amor las Mujeres y la Vida,14.00,Poesía,Mario Benedetti
+50,8,El Extranjero,16.00,Novela,Albert Camus
+51,3,El Guardián Entre el Centeno,17.00,Novela,J.D. Salinger
+52,1,El Gran Gatsby,18.00,Novela,F. Scott Fitzgerald
+53,4,1984,19.00,Novela,George Orwell
+54,2,Rebelión en la Granja,14.00,Novela,George Orwell
+55,8,Crimen y Castigo,20.00,Novela,Fiódor Dostoyevski
+56,4,Anna Karenina,21.00,Novela,León Tolstói
+57,2,Los Hermanos Karamazov,22.00,Novela,Fiódor Dostoyevski
+58,6,La Guerra y la Paz,23.00,Novela,León Tolstói
+59,6,Orgullo y Prejuicio,15.00,Novela,Jane Austen
+60,10,Emma,16.00,Novela,Jane Austen
+61,4,Mujercitas,14.00,Novela,Louisa May Alcott
+62,6,Frankenstein,13.00,Novela,Mary Shelley
+63,2,Drácula,15.00,Novela,Bram Stoker
+64,10,El Retrato de Dorian Gray,16.00,Novela,Oscar Wilde
+65,2,El Conde de Montecristo,18.00,Novela,Alexandre Dumas
+66,10,Los Miserables,20.00,Novela,Victor Hugo
+67,4,La Dama de las Camelias,14.00,Novela,Alexandre Dumas
+68,8,El Perfume,17.00,Novela,Patrick Süskind
+69,7,El Nombre de la Rosa,19.00,Novela,Umberto Eco
+70,9,El Padrino,21.00,Novela,Mario Puzo
+71,8,El Código Da Vinci,18.00,Novela,Dan Brown
+72,5,Ángeles y Demonios,19.00,Novela,Dan Brown
+73,2,Inferno,20.00,Novela,Dan Brown
+74,5,El Símbolo Perdido,21.00,Novela,Dan Brown
+75,8,La Chica del Tren,16.00,Novela,Paula Hawkins
+76,10,La Sombra del Viento,22.00,Misterio,Carlos Ruiz Zafón
+77,9,El Juego del Ángel,20.00,Misterio,Carlos Ruiz Zafón
+78,9,El Prisionero del Cielo,18.00,Misterio,Carlos Ruiz Zafón
+79,1,Marina,17.00,Misterio,Carlos Ruiz Zafón
+80,9,El Laberinto de los Espíritus,23.00,Misterio,Carlos Ruiz Zafón
+81,7,El Tiempo Entre Costuras,19.00,Novela,María Dueñas
+82,9,Patria,18.00,Novela,Fernando Aramburu
+83,8,Todo Esto te Daré,17.00,Novela,Dolores Redondo
+84,1,La Reina del Sur,20.00,Novela,Arturo Pérez-Reverte
+85,8,El Capitán Alatriste,15.00$,Novela,Arturo Pérez-Reverte
+86,8,El Club Dumas,16.00,Novela,Arturo Pérez-Reverte
+87,3,La Tabla de Flandes,17.00,Novela,Arturo Pérez-Reverte
+88,1,El Asesinato de Pitágoras,18.00,Novela,Marcos Chicot
+89,8,La Hermandad de la Sábana Santa,19.00,Novela,Julia Navarro
+90,3,La Catedral del Mar,20.00,Novela,Ildefonso Falcones
+91,3,El Médico,21.00$,Novela,Noah Gordon
+92,1,Shantaram,22.00,Novela,Gregory David Roberts
+93,5,La Ladrona de Libros,18.00,Novela,Markus Zusak
+94,10,El Niño con el Pijama de Rayas,15.00,Novela,John Boyne
+95,7,El Psicoanalista,17.00,Novela,John Katzenbach
+96,10,El Silencio de los Corderos,19.00,Novela,Thomas Harris
+97,9,El Resplandor,20.00,Novela,Stephen King
+98,7,It,21.00,Novela,Stephen King
+99,9,Carrie,16.00,Novela,Stephen King
+100,8,Misery,18.00,Novela,Stephen King
+101,2, , , , 
+102,1, , , ,
+103,7,EL QUIJOTE,19.99$,NOVELA,MIGUEL DE CERVANTES
+104,7,   el quijote   ,19.99, novela ,miguel de cervantes
+105,8,El Quijote,19.99,Novela,Miguel de Cervantes
