@@ -3,6 +3,8 @@ import pandas as pd
 #Carga de funciones del archivo preprocesamiento.py
 
 from preprocesamiento import cargar_datos ,manejar_nulos, estandarizar_texto, eliminar_duplicados, eliminar_simbolos
+from visualizacion import graficar_ventas_por_categoria, graficar_frecuencia_libroscategorias
+from generar_reporte import generar_reporte_html
 
 df_libros, df_clientes = cargar_datos("data/libros.csv" , "data/usuarios.csv")
 
@@ -38,6 +40,8 @@ ventas_por_categoria = df_libros.groupby("categoria")["precio"].sum()
 print("\nVentas totales por categoria:")
 print(ventas_por_categoria)
 
+generar_reporte_html(ventas_por_categoria)
+
 
 
 print("\nAnalisis Filtrado")
@@ -52,6 +56,8 @@ print(f"Libros con precio más bajo a 15$: {libros_mas_baratos.shape[0]} libros"
 print("\nLista de libros más baratos:")
 print(libros_mas_baratos[["nombre_libro", "precio"]].to_string(index=False))
 
+graficar_ventas_por_categoria(df_libros)
+graficar_frecuencia_libroscategorias(df_libros)
 
 
 
